@@ -1,0 +1,17 @@
+:root{
+    --mainEng-font:'Arial'
+    --mainKor-font:'Pretendard-Regular'
+    --subKor-font:'맑은 고딕'
+
+    --mainBg-color:#ccc;
+    --subBg1:#fc0;
+
+    --white:#fff;
+    --black:#090909;
+    --gray:#e0e0e0;
+
+    font-family:var(--mainEng-font), var(--mainEng-font);
+    font-size:14px;
+    font-weight:400;
+
+}
