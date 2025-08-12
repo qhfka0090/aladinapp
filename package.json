@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://qhfka0090.github.io/aladinapp/",
+  "homepage": "https://qhfka0090.github.io/aladin/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
