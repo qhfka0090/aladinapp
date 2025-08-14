@@ -31,18 +31,18 @@ export const subMenu = [
 ];
 
 export const mainImg = [
-    {number:1, img:'/images/mainBanner/m_250630_26th_all.jpg', url:''},
-    {number:2, img:'/images/mainBanner/720x450.jpg', url:''},
-    {number:3, img:'/images/mainBanner/250623_l4437_mwtop2.jpg', url:''},
-    {number:4, img:'/images/mainBanner/250703_b2511_mwtop.jpg', url:''},
-    {number:5, img:'/images/mainBanner/250703_b9199_mwtop.jpg', url:''},
-    {number:6, img:'/images/mainBanner/250703_n7030_mwtop.jpg', url:''},
-    {number:7, img:'/images/mainBanner/250704_d0859_mwtop.jpg', url:''},
-    {number:8, img:'/images/mainBanner/250704_m2652_mwtop.jpg', url:''},
-    {number:9, img:'/images/mainBanner/250704_m6845_mwtop.jpg', url:''},
-    {number:10, img:'/images/mainBanner/250704_t0294_mwtop.jpg', url:''},
-    {number:11, img:'/images/mainBanner/250704_u4472_mwtop.jpg', url:''},
-    {number:12, img:'/images/mainBanner/250709_z2755_mwtop.jpg', url:''},
+    {number:1, img:'/images/mainBanner/mainBanner1.jpg', url:''},
+    {number:2, img:'/images/mainBanner/mainBanner2.jpg', url:''},
+    {number:3, img:'/images/mainBanner/mainBanner3.jpg', url:''},
+    {number:4, img:'/images/mainBanner/mainBanner4.jpg', url:''},
+    {number:5, img:'/images/mainBanner/mainBanner5.jpg', url:''},
+    {number:6, img:'/images/mainBanner/mainBanner6.jpg', url:''},
+    {number:7, img:'/images/mainBanner/mainBanner7.jpg', url:''},
+    {number:8, img:'/images/mainBanner/mainBanner8.jpg', url:''},
+    {number:9, img:'/images/mainBanner/mainBanner9.jpg', url:''},
+    {number:10, img:'/images/mainBanner/mainBanner10.jpg', url:''},
+    {number:11, img:'/images/mainBanner/mainBanner11.jpg', url:''},
+    {number:12, img:'/images/mainBanner/mainBanner12.jpg', url:''},
 ];
 
 export const mainApp = [

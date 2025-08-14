@@ -10,7 +10,7 @@ function MainIcon(){
                     mainApp.map((icon,idx)=>(
                         <div className="icon-item" key={idx}>
                             <Link to={icon.url}>
-                                <img src={icon.img} alt={icon.title} />
+                                <img src={import.meta.env.BASE_URL + icon.img} alt={icon.title} />
                                 <p>{icon.title}</p>
                             </Link>
                         </div>

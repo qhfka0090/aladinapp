@@ -29,7 +29,7 @@ function MainSlide(){
                         <SwiperSlide key={idx} className="slide-box">
                             <Link to={img.url}>
                                 <div className="main-img">
-                                    <img src={img.img} alt={img.number} />
+                                    <img src={import.meta.env.BASE_URL + img.img} alt={img.number} />
                                 </div>
                                 <div className="img-btn">
                                     <div className="pause-box">

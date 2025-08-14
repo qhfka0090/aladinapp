@@ -8,7 +8,7 @@ import store from './store';
 
 createRoot(document.getElementById('root')).render(
   <Provider store={store}>
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter>
       <App /> 
     </BrowserRouter>
   </Provider>

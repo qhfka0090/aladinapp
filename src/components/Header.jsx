@@ -14,7 +14,7 @@ function Header(){
     return(
         <header id="header">
             <div className='header-top'>
-                <h1><Link to='/'><img src='/images/logo.png' alt=''/></Link></h1>
+                <h1><Link to='/'><img src={ `${import.meta.env.BASE_URL}images/logo.png` } alt=''/></Link></h1>
                 <Link to="/cart">
                         <FontAwesomeIcon icon={faShoppingCart} className='cart-icon' />
                         <span className='sr-only'>basket</span>

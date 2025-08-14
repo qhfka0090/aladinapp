@@ -37,7 +37,7 @@ function SelectedBook(){
                         <SwiperSlide key={item.id}>
                             <Link to={`/product/${item.id}`} state={{product:item}} className="img-link">
                                 <div className="img-box">
-                                    <img src={item.img} alt={item.title} />
+                                    <img src={import.meta.env.BASE_URL + item.img} alt={item.title} />
                                 </div>
                                 <div className="text-box">
                                     <p className="sub-title">{item.desc}</p>
